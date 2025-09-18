@@ -1,0 +1,9 @@
+5
+a) There are 206 drivers active.
+b) The Wi-Fi and network drivers are located in the Network adapters driver. They are called Intel(R) Wi-Fi 7 BE201MHz,
+WAN Miniport (IKEv2), WAN Miniport (IP), WAN Miniport (IPv6), WAN Miniport (L2TP), WAN Miniport (Network Monitor), WAN Miniport (PPPOE), WAN Miniport (PPTP), WAN Miniport (SSTP).
+6.1
+How much RAM is used:2,025.5 MB
+What percentage of your CPU is used:7.6%.
+6.2
+The browser is located at C:\Users\diana\AppData\Local\Programs\Opera.

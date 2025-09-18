@@ -1,0 +1,12 @@
+4.1 
+My CPU is Intel(R) Core(TM) Ultra 7 258V. The number of cores is 8 and the (base)speed is 2.20 GHz.
+4.2
+My RAM type is LPDDR5X with the speed of 8533 MT/s. I have 32.0 GB of RAM installed.
+4.3
+I have an Intel(R) Arc(TM) 140V GPU and it has 128 MB of VRAM.
+4.4
+My BIOS version is American Megatrends International, LLC. UX5406SA.303, 08/11/2024.
+5.0
+My boot order only contains 1 element: Windows Boot Manager. It cannot be booted by USB.
+6.0
+My current screen resolution is 2880x1800. When I changed the screen orientation to Portrait, the screen shifted from vertical to horizontal, making it hard to see and navigate, as my mouse direction was also flipped. Putting your screen in Portrait mode could help you when you are reading long documents, and using sites formatted for mobile phones. When I changed the resolution to 800x600, everything on the screen became bigger, but lost their quality. Due to their size, few windows could be displayed on the screen and the icons of my apps shifted around.

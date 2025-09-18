@@ -1,0 +1,11 @@
+6.2
+68 65 6C 6C 6F 20 77 6F 72 6C 64 21
+00001840
+00000003 for the 1bit and 00000004 for the 24bit
+6.3
+When I run the hello_world.exe, a message pops up that says that the computer cannot run the application, and to check with the publisher for a new version.
+Changing the extension of the file did not change the bytes in the hex viewer.
+6.4
+When I try to change the content of hello_world.txt with the Read-only property and save it, it does not let me overwrite the contents. Instead, the computer prompts me to save the modified version as a different file.
+7
+1) I have 1 disk on my machine. The model is WD PC SN560 SDDPNQE_1T00-1102. Its capacity is 953.8 GB, the read speed is around 4,600 to 5,050 MB/s and the write speed is around 3,150 to 3,450 MB/s. The disk has 5 partitions, 2 of which are used. The first used partition (C:) has a capacity of 243 GB and contains the OS. The second used partition (D:) has a capacity of 708 GB and contains data. The other, unused partitions have the capacities of 260 MB(2 of them) and 1018 MB and are used as backup.

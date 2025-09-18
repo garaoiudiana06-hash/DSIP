@@ -1,0 +1,12 @@
+4.1
+My IP address is 188.91.52.54
+4.2
+My IP address did not change, despite having activated the VPN. It did not change because it is a private IP address.
+4.3
+My IP address is private.
+4.4
+My geo-location is Rotterdam, South Holland, NL.
+4.5
+The first hop is a private IP address while the last hop is a public IP address.
+4.6
+the geo-location of the Google data center that is used for my Google searches is Eemshaven, Netherlands
