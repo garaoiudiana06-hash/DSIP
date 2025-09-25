@@ -1,0 +1,10 @@
+# Your Code
+    var name is text
+    var grade is number
+    var course is text
+    name="Diana"
+    grade=10
+    course="DSPI"
+
+# print final output
+print("My name is", name, "and I want a", grade, "for the course", course)

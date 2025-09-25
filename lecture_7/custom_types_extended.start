@@ -1,0 +1,14 @@
+#Your Code
+type savings start
+number[*]
+end
+type client start
+var name is text
+var savings is savings
+var total_savings is number
+end
+var bank_account is client
+bank_account =client("Diana",savings(100,30,24))
+bank_account.total_savings=bank_account.savings[0]+bank_account.savings[1]+bank_account.savings[2]
+#print the result
+print ("My back account details :", bank_account )

@@ -1,0 +1,13 @@
+# Your code
+type grade start
+number[*]
+end
+var grades is grade
+var p is number
+p->10
+grades=grade(p,p,p,p,p)
+
+# Do not change the code below or add more code
+print(grades)
+grades[0] := 42
+print(grades)

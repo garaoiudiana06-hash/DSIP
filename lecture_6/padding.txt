@@ -1,0 +1,37 @@
+//LOAD AN EXAMPLE TO TRY
+//then load an input and click play
+
+//Syntax:
+
+//-------CONFIGURATION
+name: my_program
+init: start
+accept: end
+
+//-------DELTA FUNCTION:
+//[current_state],[read_symbol]
+//[new_state],[write_symbol],[>|<|-]
+
+// < = left
+// > = right
+// - = hold
+// use underscore for blank cells
+start,1
+start,1,<
+
+start,_
+right,0,>
+
+right,1
+right,1,>
+
+right,0
+right,0,>
+
+right,_
+end,0,-
+
+//States and symbols are case-sensitive
+
+//Load your code and click COMPILE.
+//or load an example (top-right).
